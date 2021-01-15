@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "AngularRoutingApp"
+    }
+  },
+  "defaultProject": "AngularRoutingApp",
+  "cli": {
+    "analytics": false
+  }
 }
